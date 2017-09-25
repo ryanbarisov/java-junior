@@ -4,6 +4,12 @@
 
 ---
 
+# Teammates
+- Ermolaev Daniil
+- Yanbarisov Ruslan
+
+---
+
 # Introduction to Java and Java Technology (*1* hour theory / *including 0.5* hour practice) 
 - Introduction to Java. Benefits. 
 - JDK, JVM. 
